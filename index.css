@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+header{
+    background-color: cadetblue;
+    padding: 10px;
+    border-left: 5px solid darkred;
+}
+
+
+h1 {
+    color: blue;
+    background-color: bisque;
+}
+
+h2 {
+    background-color: aquamarine;
+}
